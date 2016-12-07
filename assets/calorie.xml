@@ -1,0 +1,1673 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>User</Author>
+  <LastAuthor>HP Authorized Customer</LastAuthor>
+  <Created>2009-07-06T17:31:38Z</Created>
+  <LastSaved>2010-05-31T22:03:51Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7395</WindowHeight>
+  <WindowWidth>9495</WindowWidth>
+  <WindowTopX>360</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="258" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="123"/>
+   <Column ss:AutoFitWidth="0" ss:Width="95.25" ss:Span="1"/>
+   <Row ss:StyleID="s18">
+    <Cell><Data ss:Type="String">Item</Data></Cell>
+    <Cell><Data ss:Type="String">Amount</Data></Cell>
+    <Cell><Data ss:Type="String">Unit</Data></Cell>
+    <Cell><Data ss:Type="String">Calories</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Almonds, shelled</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Apple</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Apple juice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">115</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Applesauce</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">105</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Apricot</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Artichoke</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Asparagus</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Avocado</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">305</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bacon</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Strips</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bacon, Canadian</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">56.7</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">155</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Bagel</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">165</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Banana</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">105</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Barley</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">390</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Beans, kidney</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">230</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Beans, lima</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">260</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Beans, navy</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">225</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Beef chop suey</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Beer</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">340.2</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">160</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Beet greens</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Beets</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Biscuit</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Blueberries</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bluefish</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">130</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bologna</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">56.7</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">165</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bran flakes</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">105</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Brazil nut, shelled</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">185</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bread crumbs</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">340</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bread, French</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bread, Italian</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bread, pita</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bread, pumpernickel</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bread, rye</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bread, white</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bread, whole wheat</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Broccoli</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Brussel sprouts</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cabbage, raw</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cake, angel food</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">140</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cake, cheese</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">250</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cake, chocolate</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">270</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cake, strawberry short</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">270</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Candy, chocolate</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">145</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cantaloupe</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Carrot</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cashews, raw</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 0.25 * 28.35"><Data ss:Type="Number">7.0875000000000004</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">196</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Catsup</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cauliflower, raw</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Celery</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cheese cottage</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">110</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cheese, cheddar</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">120</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cheese, cottage, skim</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cheese, cream</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cheese, feta</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cheese, process</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cheese, ricotta</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">430</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cheese, ricotta, skim</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">340</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cheese, Swiss</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">105</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cheeseburger</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cheeseburger, 1/4 lb.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">525</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cherries</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chestnuts, shelled</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">350</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chicken breast</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 3 * 28.35"><Data ss:Type="Number">85.050000000000011</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">140</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chicken breast, battered</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 4.9 * 28.35"><Data ss:Type="Number">138.91500000000002</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">365</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chicken leg</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="=1.6*28.35"><Data ss:Type="Number">45.360000000000007</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chicken leg, battered</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="=2.5*28.35"><Data ss:Type="Number">70.875</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">195</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chicken liver</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">185</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chicken pot pie</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">350</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chicken salad</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="=1.9*28.35"><Data ss:Type="Number">53.865000000000002</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chickpeas</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">270</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chili con carne</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">340</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Clams</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cocoa</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 8 * 28.35"><Data ss:Type="Number">226.8</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">250</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Coconut, dried</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">410</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cod fish cakes</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">185</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Coffee, black</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 6 * 28.35"><Data ss:Type="Number">170.10000000000002</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cola</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 12 * 28.35"><Data ss:Type="Number">340.20000000000005</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">144</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Collard greens</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cookie, chocolate chip</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Corn flakes</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Corn grits</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">125</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Corn, kernels</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">165</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Corn, on cob</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Corned beef</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">250</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Crab meat</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cream, coffee</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cream, half &amp; half</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cream, heavywhip</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cream, lightwhip</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cream, sour</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Croutons</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cucumber</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dandelion</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dates</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">230</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Donut, plain</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">190</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dressing, 1000 Island</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dressing, French</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dressing, Italian</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dressing, low-calorie</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Duck. roast</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">190</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Egg</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Egg muffin sandwich</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">280</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Egg white</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Egg yolk</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Eggplant</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Endive/Escarole</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Farina</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Filberts, shelled</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">180</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Filet mignon</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">250</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Fish filet sandwich</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">370</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frankfurter</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">180</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">French toast</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">slice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">130</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frozen yogurt</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 0.5 * 28.35"><Data ss:Type="Number">14.175000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">105</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ginger ale</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">340.2</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">115</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Granola</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">225</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Grapefruit</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Grapes, green</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Green beans</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ground beef</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">320</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ham, Virginia</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Hamburger</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">245</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Hamburger, 1/4 lb.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">445</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Hollandaise sauce</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ice cream, vanilla</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 0.5 * 28.35"><Data ss:Type="Number">14.175000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">150</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ice milk</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 0.5 * 28.35"><Data ss:Type="Number">14.175000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Jam</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Kale, raw</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Kiwi</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Lamb chop</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">385</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Leeks</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 0.5 * 28.35"><Data ss:Type="Number">14.175000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Leg of lamb</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">217</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Lentils</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">215</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Lettuce, head</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Lettuce, romaine</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Liver, broiled</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">290</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Lobster meat</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">111</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Macadamias</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">196</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Mango</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Margarine, regular</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">102</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Margarine, whipped</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Mayonnaise</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Melba toast</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Milk, buttermilk</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Milk, skim</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Milk, whole</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">150</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Muffin, bran</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">150</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Muffin, corn</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">130</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Muffin, English</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">150</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Mushrooms</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Mustard</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Nectarine</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Oatmeal. cooked</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">150</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Okra</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Omelet, cheese</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">260</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Onions, green</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Onions, white, raw</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Orange</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Orange juice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">105</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pancake</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Papaya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Parsnips</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pasta &amp; meatballs</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">330</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pasta, cooked</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">190</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Peach</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Peanut butter</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Peanuts, shelled</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">160</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pear</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Peas</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">125</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Peas, raw</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">58</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pecans, halves</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">190</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pepper, sweet green</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pepper, sweet red</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pie, fruit-filled</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 1/8"><Data ss:Type="Number">0.125</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pie, lemon meringue</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 1/8"><Data ss:Type="Number">0.125</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">275</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pie, pecan</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 1/8"><Data ss:Type="Number">0.125</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">430</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pine nuts</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">160</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pineapple</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">226.8</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pineapple juice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pistachios, shelled</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">165</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Plum</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Popcorn</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pork chop</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">275</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pork sausage</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">130</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Potato baked</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">125</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Potato chips</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">105</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Potato salad</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">360</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Potato, french fried</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Potato, mashed</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Potato, sweet</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">141.75</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Prunes</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 2* 28.35"><Data ss:Type="Number">56.7</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">130</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pudding, chocolate</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="= 0.5 * 240"><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pudding, custard</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">305</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pumpkin</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pumpkin seeds</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">155</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Radishes</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Raisins</Data></Cell>
+    <Cell ss:StyleID="s16" ss:Formula="=0.25 * 240"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">120</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Raspberries</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Rice cake</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Rice, brown</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">110</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Rice, white, cooked</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Rice, wild</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Roast beef</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">198</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Roast beef sandwich</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">345</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Roll, hamburger</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">120</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Roll, hot dog</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">160</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Roll, onion</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">130</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Salami</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.35</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">120</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Salmon, baked</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">85.05</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">140</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Salmon, smoked</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">85.05</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">150</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sauerkraut</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Scallops</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">140</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sesame butter</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sesame seeds, hulled</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Shrimp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">85.05</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sirloin steak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">229</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Soup, chicken noodle</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Soup, clam chowder</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">165</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Soup, cream of tomato</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">160</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Soup, vegetable beef</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Soybeans</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">235</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Spareribs</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">505</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Spinach</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sprouts, alfalfa</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sprouts, mung</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sprouts, soybean</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Squash, summer</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Squash, winter</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Squash, zucchini</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Strawberries</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sugar</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sunflower seeds</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">160</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Syrup, chocolate</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Syrup, corn/maple</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Taco</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">183</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tangerine</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tea, black</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">226.8</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tofu, raw</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">94</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tomato</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tomato juice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">170.1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tuna salad</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">53.87</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tuna, in oil</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">85.05</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">165</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tuna, in water</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">85.05</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">135</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Turkey, dark meat</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">320</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Turkey, white meat</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Turnip greens</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Turnips</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Veal chop</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">260</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vegetable oil</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">120</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vegetable shortening</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">110</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Walnut pieces</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">180</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Watercress</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Wheat germ</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">220</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Wheat, cream of</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Wine, dry</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Wine, sweet</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">113.4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">g</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">160</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Yogurt, fruit-flavor</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">230</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Yogurt, low-fat</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">127</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Yogurt, whole</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">140</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>235</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>259</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
